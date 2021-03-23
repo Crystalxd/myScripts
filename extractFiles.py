@@ -52,7 +52,6 @@ if __name__ == '__main__':
 	# use_type = 1     # 0 表示连续抽取, 1 表示随机抽取
 	# extFiles(use_type, count, srcPath, dstPath)
 
-	# picPath 图片文件， dstPath 保存文件路径
     picPath = "/home/dl/liuxx/yolov5_for_rknn/person_helmet/images/val2021"
     labelPath = "/home/dl/liuxx/yolov5_for_rknn/person_helmet/labels/train2021"
     savePath = "/home/dl/liuxx/yolov5_for_rknn/person_helmet/labels/val2021"
